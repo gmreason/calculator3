@@ -1,0 +1,19 @@
+﻿生成启动时间为 2016/1/13 10:48:19。
+     1>项目“H:\gmr\calculator\calculator\calculator.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\calculator.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\gmr\calculator\Debug\calculator.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\calculator.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"H:\gmr\calculator\Debug\calculator.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\gmr\calculator\Debug\calculator.lib" /MACHINE:X86 Debug\calculator.res
+         Debug\calculator.exe.embed.manifest.res
+         Debug\calculator.obj
+         Debug\calculatorDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\calculator.exe.embed.manifest" /manifest Debug\calculator.exe.intermediate.manifest D:\vs\VC\Include\Manifest\dpiaware.manifest
